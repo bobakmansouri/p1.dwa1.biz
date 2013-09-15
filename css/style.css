@@ -4,10 +4,10 @@
 body
 {background: #FFFFFF;
 }
-h1 {font-style:none; font-family:Verdana,Helvetica,sans-serif; font-size:38px;
+h1 {font-family:Verdana,Helvetica,sans-serif; font-size:38px;
 }
 /*This section is for the paragraph section*/
-p {font-style:none; font-family:Verdana,Helvetica,sans-serif; font-size:18px;
+p {font-family:Verdana,Helvetica,sans-serif; font-size:18px;
 }
 blue {color:#0000FF;
 }
